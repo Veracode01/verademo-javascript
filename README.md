@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag (Express-JS).  
+# VeraDemo - Blab-a-Gag (Express-JS). 
 
 ### Notice
 
